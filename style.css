@@ -47,3 +47,34 @@ body {
 .list-container {
     margin: 20px 0;
 }
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.first-div {
+    width: 500px;
+    height: 500px;
+    background-color: #6b9ac4;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #2c4a6d;
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-size: 1.2em;
+    max-width: 80%;
+}
