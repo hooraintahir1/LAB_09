@@ -38,3 +38,12 @@ body {
 .gmail-link:hover {
     text-decoration: underline;
 }
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+}
+.list-container {
+    margin: 20px 0;
+}
