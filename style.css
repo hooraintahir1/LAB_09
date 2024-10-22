@@ -19,3 +19,22 @@ h4{
 h4 span{
     text-decoration: underline;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+}
+.image-link {
+    display: block;
+    margin: 20px 0;
+}
+.gmail-link {
+    color: #1a73e8;
+    text-decoration: none;
+    font-size: 18px;
+}
+.gmail-link:hover {
+    text-decoration: underline;
+}
